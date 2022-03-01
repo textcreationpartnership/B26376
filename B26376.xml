@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new and perfect relation of the takeing and apprehending five pyrates, viz. P.F. J.M. J.F-G. Irish-men. I.G. and I.F. English-men. That stole a merchants ship in Amsterdam; and having her at sea, they killed all the men that were aboard the ship, and brought her to Ireland, and there sold her merchants goods. Together with their tryals, speeches, and confessions at the place of execution; as they, were truly gathered by one that was present at their tryals and execution. By D.M.</title>
+            <author>D. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26376</idno>
+            <idno type="STC">Wing M14</idno>
+            <idno type="EEBO-CITATION">99826245</idno>
+            <idno type="PROQUEST">99826245</idno>
+            <idno type="VID">206027</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B26376)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206027)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1762:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new and perfect relation of the takeing and apprehending five pyrates, viz. P.F. J.M. J.F-G. Irish-men. I.G. and I.F. English-men. That stole a merchants ship in Amsterdam; and having her at sea, they killed all the men that were aboard the ship, and brought her to Ireland, and there sold her merchants goods. Together with their tryals, speeches, and confessions at the place of execution; as they, were truly gathered by one that was present at their tryals and execution. By D.M.</title>
+                  <author>D. M.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Conniers, in Duck-Lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>The words "P.F. .. English-men." are connected on title page by a complex series of brackets.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pirates --  England --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Executions and executioners --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206027:1" rendition="simple:additions"/>
+            <p>A New and Perfect RELATION Of the Takeing and Apprehending Five Pyrates, VIZ. <hi>P.F. J.M. J.F-G.</hi> Iriſh-men. <hi>I. G.</hi> and <hi>I.F.</hi> Engliſh-men. That ſtole a Merchants Ship in <hi>Am<g ref="char:EOLhyphen"/>ſterdam;</hi> and having her at Sea, they Killed all the men that were a<g ref="char:EOLhyphen"/>board the Ship, and brought her to <hi>Ireland,</hi> and there ſold her Merchants Goods. Together with their Tryals, Speeches, and Confeſſions at the Place of Execution; as they were truly gathered by one that was preſent at their Tryals and Execution. <hi>D. M.</hi>
+            </p>
+            <p>Printed for <hi>I. Conniers,</hi> in <hi>Duck-Lane.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:206027:2"/>
+            <pb n="1" facs="tcp:206027:2"/>
+            <head>A New and True Relation of Five Pyrates.</head>
+            <p>THeſe five Pyrates of whom we intend to give you a full account: Three of theſe were <hi>Iriſh</hi> men: Viz. <hi>E. F. J. M.</hi> and <hi>J.</hi> F. who were in <hi>Amſterdam</hi> in <hi>April,</hi> and got their living by unjuſt<g ref="char:EOLhyphen"/>neſs and wicked practices, as they did cry out of very much when it was too late; but their trade failing them, and they wanting wherewith to uphold their riotous living, could not tell what courſe beſt to ſteer; they at length heard of a Ship that was very richly laden with all manner of Merchandize, they contrived to enter then ſelves as Paſſengers to go with the Ships company where ſhe was bound; but reſolved to kill all that were aboard the Veſſel if once they had her at Sea, and then to carry the Veſſel for <hi>Ireland,</hi> and there to make her their own; and they had ſo contrived as to make o're <hi>P.</hi> F. a natorious rogue, to be the Merchant of her; which wicked practice they moſt wickedly purſued and brought to paſs in a ſhort time after; but before they could bring about their de<g ref="char:EOLhyphen"/>ſign, wanting the help of ſome Seamen, it was the unhappy fortune of two <hi>Engliſh</hi> Seamen, <hi>I. C.</hi> and <hi>J.</hi> F. to be at that time in <hi>Amſterdam,</hi> waiting to enter themſelves aboard ſome Ship that firſt preſented to come for <hi>England;</hi> and one of this <hi>P.</hi> F. company, <hi>J. M.</hi> having been in their company a ſhort time before, goes and tells this <hi>P.</hi> F. that he had found out two ſtout Seaman; whom if they could but perſwade to be true to them, they would undoubtedly do their buſineſs.</p>
+            <p>Which did a little puzzle at the preſent the wicked Brayn of this <hi>P.</hi> F. but at length theſe <hi>Iriſh</hi> rogues ſo ordered the matter as to keep theſe poor <hi>Engliſh</hi> men in ignorance until
+<pb n="2" facs="tcp:206027:3"/>the very laſt half hour of time, wherein they were to ſeize the perſons of thoſe that belonged to the Ship, and ſo murder and deſtroy them; And this <hi>P.</hi> F. made himſelf an Iriſh Lord, and ſaid he ow'd the Ship, and had many thouſands of pounds in Merchants goods aboard on her, onely he wanted Two <hi>Engliſh</hi> Seaman to go along with her to <hi>Ireland;</hi> ſo ſending forth his wicked confederates <hi>E.</hi> F. his Brother, and <hi>I. M.</hi> and <hi>I.</hi> F. to find theſe two poor Engliſh Seaman, who after much ſearch they found, <hi>I.</hi> F. and <hi>I. C.</hi> whom they deſired to go and to drink with them, and <hi>C.</hi> and F. refuſed not their requeſt, but went along with them to a houſe of entertain<g ref="char:EOLhyphen"/>ment, where in diſcourſe they told <hi>C.</hi> and F. that they ſuppo<g ref="char:EOLhyphen"/>ſed them to be out of imployment, and if they pleaſed to ex<g ref="char:EOLhyphen"/>cept of their kindneſs they would help them to great prefer<g ref="char:EOLhyphen"/>ment, and that they ſhould wait upon an Iriſh Lord that had a Ship richly laden that was ſuddenly bound for <hi>Ireland,</hi> and if they would go and enter themſelves in the ſaid Ship they ſhould not want for no mony, and when they came to <hi>Ireland</hi> they ſhould be highly preferred by this Iriſh Lord; ſo hearing their favour, though trappaning and undoing ſpeeches, they conſented to go with them to ſee this Iriſh Lord, and as ſoon as they came into his preſence, this <hi>P.</hi> F. the ſon of a poor Taylor, not worth mentioning, who was born in a Town cal<g ref="char:EOLhyphen"/>led <hi>Mallow,</hi> twelve miles from <hi>Cork,</hi> and there lived while they were hang'd, drawn, and quartered; This <hi>P.</hi> F. had ſo order'd the matter that they all ſtood bare-neaded before this ſpawn of a poor Iriſh Taylor, and with cap in hand told him, <hi>May it pleaſe your Honour my Lord, theſe are the two Gentlemen that we told your honour of, and we have acquainted them with what your honours buſineſs is with them.</hi> And then began this <hi>P.</hi> F. to preſent himſelf to them in great eloquence, and much courteſie; telling them that he had a Ship richly laden that waited for a wind to go for <hi>Ireland,</hi> and that he wanted two
+<pb n="3" facs="tcp:206027:3"/>ſuch ſtout <hi>Engliſh</hi> men as they were to go along in her, and if they would go in her they ſhould want for no pay; and when they came in <hi>Ireland</hi> he would advance them; thus with theſe and more ſuch like betraying ſpeeches, they contracted with them to go in the Ship, and he immediately furniſhed them with money, and drinking high with them, he at length per<g ref="char:EOLhyphen"/>ſwaded them to take an oath upon the Bible to be true to him upon all concernments whatſoever, and not to reveal any of his ſecrets to any perſon or perſons whatſoever.</p>
+            <p>But at length the Ship being ready to ſail, <hi>P.</hi> F. enters him<g ref="char:EOLhyphen"/>ſelf and his company to go as Paſſengers in her; but all this time he kept the two <hi>Engliſh</hi> men ignorant of his helliſh and murderous deſign, till at length having ſailed many days they began to draw neer to <hi>Ireland;</hi> and then this <hi>P.</hi> F. calls his company to him, and tells them that the time grew neer that they muſt kill all belonging to the Ship, and that <hi>I. C.</hi> and <hi>I.</hi> F. muſt then ſteer the Ship; which cruel and bloody news, cauſ<g ref="char:EOLhyphen"/>ed the hearts of <hi>C.</hi> and F. to tremble: <hi>F.</hi> fell upon his knees to F. and begged for the Lords ſake that no mans blood might be ſpilt; but F. turn'd up the glaſs, and ſwore a bloody Oath that before it was out there ſhould not be a man leſt alive that belonged to the Ship, and before it was out this <hi>P.</hi> F. went to the Maſters Cabbin and with his Piſtol ſhot him; the Maſters Mate hearing the Piſtol to go off, was coming to ſee the matter, and this <hi>P.</hi> F. met him and killed him; M. and F. killed two more of the men, while the two brothers Kill'd the other two, and having thrown them over-board they were coming to kill another <hi>Dutchman</hi> that was upon the Watch, but J. F. and C. begging greatly with F. telling him that if they kill'd him the Ship would be loſt and they ſhould all periſh: then they came to a youth who was the Merchants Son of the ſhip to kill him; but <hi>F.</hi> and C. beg<g ref="char:EOLhyphen"/>ging hard of this bloody Murtherer to ſpear the poor youths
+<pb n="4" facs="tcp:206027:4"/>life, telling him that he would want the Boy to write the Dutch Bills out into Engliſh, and if they kill'd him then they would not know what to do with the goods; whereupon F. ſpar'd the boys life for a day or two, forcing him to write our all the bills of Lading into Engliſh, and when he had done, then neither the pleading of the youth, nor the pleading of the two Engliſh-men could move the hearts of theſe cruel murtherers to ſpare the youths life; but they bound him hand and foot, and ty'd a great weight to him and threw him into the Sea, and then came to ſerve the other poor man the like that was left alive, but by the great providence of God his life was ſpared, to the end, that their blood might be brought upon their heads, having committed theſe murders, the ſhip at length put in at <hi>Kingſayl</hi> in <hi>Ireland,</hi> where P. F. began to ſell the goods almoſt for nothing, keeping the Dutch man un<g ref="char:EOLhyphen"/>der Deck, but making great waſte he began to be ſuſpected, upon which he fled with his ſhip to <hi>Watterford;</hi> but a Cap<g ref="char:EOLhyphen"/>tain of that Port perſued the ſhip and took her and five of his company, but he made an eſcape, the Veſſel was brought to <hi>Kingſayl,</hi> and the men being brought before a Juſtice, and the Dutchman declaring againſt them they were ſent to <hi>Cork</hi> to Priſon, where they remained till the Aſſize, at which they were found guilty, and were ſentenced to be hang'd, drawn, and quartered; which upon the fifth day of <hi>Auguſt</hi> was per<g ref="char:EOLhyphen"/>formed on them.</p>
+            <p>The firſt that ſuffered was <hi>P.</hi> F. who being upon the Lad<g ref="char:EOLhyphen"/>der, cryed out to all ſpectators to take example by him, there being ten Iriſh men hanging upon the Gallows at that time: <hi>F.</hi> deſired all young-men to have a care, and to be contented with that eſtate that God ſhould think beſt for them in, and not to preſume too high as he had done, crying out over and over, <hi>I am a bloody rogue, I am a bloody rogue, O that I who am not nineteen years of age ſhould dye ſo bloody a rogue as I am:</hi> So
+<pb n="5" facs="tcp:206027:4"/>having ſaid his Paternoſter, and taking his leave of the Prieſt, telling all perſons that the two <hi>Engliſh</hi> men were not in the leaſt guilty of blood, he was turned off; and the next was <hi>M.</hi> who made a large confeſſion much after the ſame man<g ref="char:EOLhyphen"/>ner of F. crying out of the blood he had ſhed; and after him was F-G. who made a large naration in <hi>Engliſh, French, Iriſh,</hi> and <hi>Dutch,</hi> all of them clearing the <hi>Engliſh.</hi> men from this Murder.</p>
+            <p>Next came <hi>I.C.</hi> who made a large and eloquent ſpeech to the people, begging that they would all flee from ſin which was the cauſe of his ruine, and that all Seaman would take heed what company they come into, for fear they ſhould be brought into ſuch a ſnare, and to ſuch an end as he was brought to; he declared that he never wronged man, woman, or child, but he confeſſed he had highly diſhonoured God in keeping company with Lewd Harlots; which he ſaid was the cauſe that the Lord God had given him over to be delud<g ref="char:EOLhyphen"/>ed with thoſe falſe ſpeeches of that wicked <hi>P.</hi> F. who told him that he was an Iriſh Lord, and that he would highly pre<g ref="char:EOLhyphen"/>fer both him and <hi>I.</hi> F. as ſoon as they came to <hi>Ireland;</hi> he was asked whether he was willing to dye, he ſaid he was, and he declared to the people that he was ſure that the Lord had pardoned his ſins, and would receive him to glory, ſo taking his leave of thoſe Miniſters that had ſpent much time with both of them in prayer, both at the place of execution; and for ſome hours with them before they came to the place of execution, and alſo of the people, he gave himſelf up to pray<g ref="char:EOLhyphen"/>er for a long time, uſing many arguments to the Lord for pardon of his ſins; being accompani'd with all ſpectators, he at length with abundance of humility, committed his ſoul to the mercy of God, and his body to the Executioner: being turned off, <hi>I. F.</hi> fell immediately upon the ground on his Knees, pouring out his ſpirit to the Lord by prayer for a long time; at length he went up the Ladder, and looking round a<g ref="char:EOLhyphen"/>bout
+<pb n="6" facs="tcp:206027:5"/>him he cryed out to all ſpectators to take example by him, eſpecially to young-men that they ſhould take example by him, and not to ſpend their precious time in ſinning againſt the Lord, leaſt his anger ſhould break forth againſt them, and bring them to ſuch a ſhameful end as he was come to; he begged of all Seamen and others to have a great care of what company they came into, leaſt it ſhould provoke the Lord to deliver them up to ſuch wicked deluſions as he was deliver<g ref="char:EOLhyphen"/>ed up to: <hi>Oh, the wicked</hi> F. cryed he, <hi>Oh, this bloody</hi> F. <hi>that would have pitty of none, in ſparing of them, although I begged of him ſo to do, as though I had begged for my own life, as I did for half an hour together upon my knees, O this cruel Murderer</hi> P. F. And giving many Exhortations to the people he turn'd him about and look'd on his poor companion <hi>I. C.</hi> after that he prayed again very excellently, and with a chearful voice bad the Executioner to do his office; ſo taking his leave of all he humbly committed his ſoul to the mercy of the Lord; Where in the judgement of charity we hope it now reſteth; after he was dead and quarter'd he was coffin'd, and the next day buried, with a great compaay of Seaman and other per<g ref="char:EOLhyphen"/>ſons of quality; there being a Funeral Sermon preached at his burial, and much mourning was given at his burial; A large burial was made by the Seamen and others for I. C.; They dyed both in white from the crown of the head to the ſole of the foot, declaring their innocency of Murder; when the ten Malefactors that dyed that day were executed, then theſe were brought from the Merchants own houſe, who walked on foot with Bibles in their hand, all in white, the other three with Maſs books in their hands; ill five indeed for fleſh and blood were as brave men as are ſeen in a whole Countrey, four of them not exceeding 23 years of age; I.C. as he ſaid was above thirty. After they were all dead and quartered, the heads of the Iriſh men were ſet upon ſeveral Gates in ſeveral Sea-port places in Ireland, as an example to all Traytors and murderers to take warning by.</p>
+            <trailer>Finis.</trailer>
+            <pb facs="tcp:206027:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
